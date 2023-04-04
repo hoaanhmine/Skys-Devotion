@@ -1,6 +1,6 @@
 {
 	"storyName": "Your New Week",
-	"difficulties": "hard",
+	"difficulties": "Hard",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
 	"weekBefore": "tutorial",
@@ -10,7 +10,7 @@
 		253
 	],
 	"startUnlocked": true,
-	"hideStoryMode": true,
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Skys-Rhapsody",

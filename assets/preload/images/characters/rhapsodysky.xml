@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rhapsodysky.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="raphsody alt down0000" x="0" y="0" width="365" height="556"/>
+	<SubTexture name="raphsody alt down0001" x="365" y="0" width="365" height="556"/>
+	<SubTexture name="raphsody alt down0002" x="730" y="0" width="365" height="556"/>
+	<SubTexture name="raphsody alt down0003" x="1095" y="0" width="365" height="556"/>
+	<SubTexture name="raphsody alt down0004" x="1460" y="0" width="365" height="556"/>
+	<SubTexture name="raphsody alt down0005" x="1825" y="0" width="365" height="556"/>
+	<SubTexture name="raphsody alt down0006" x="2190" y="0" width="365" height="556"/>
+	<SubTexture name="raphsody alt down0007" x="2555" y="0" width="365" height="556"/>
+	<SubTexture name="raphsody alt down0008" x="2920" y="0" width="365" height="556"/>
+	<SubTexture name="raphsody alt down0009" x="3285" y="0" width="365" height="556"/>
+	<SubTexture name="raphsody alt down0010" x="3650" y="0" width="365" height="556"/>
+	<SubTexture name="raphsody alt down0011" x="4015" y="0" width="365" height="556"/>
+	<SubTexture name="raphsody alt down0012" x="3285" y="0" width="365" height="556"/>
+	<SubTexture name="raphsody alt down0013" x="3650" y="0" width="365" height="556"/>
+	<SubTexture name="raphsody alt down0014" x="4015" y="0" width="365" height="556"/>
+	<SubTexture name="raphsody alt idle0000" x="4380" y="0" width="356" height="622"/>
+	<SubTexture name="raphsody alt idle0001" x="4736" y="0" width="356" height="622"/>
+	<SubTexture name="raphsody alt idle0002" x="5092" y="0" width="356" height="622"/>
+	<SubTexture name="raphsody alt idle0003" x="5448" y="0" width="356" height="622"/>
+	<SubTexture name="raphsody alt idle0004" x="5804" y="0" width="356" height="622"/>
+	<SubTexture name="raphsody alt idle0005" x="6160" y="0" width="356" height="622"/>
+	<SubTexture name="raphsody alt idle0006" x="6516" y="0" width="356" height="622"/>
+	<SubTexture name="raphsody alt idle0007" x="6872" y="0" width="356" height="622"/>
+	<SubTexture name="raphsody alt idle0008" x="7228" y="0" width="356" height="622"/>
+	<SubTexture name="raphsody alt idle0009" x="7584" y="0" width="356" height="622"/>
+	<SubTexture name="raphsody alt idle0010" x="0" y="622" width="356" height="622"/>
+	<SubTexture name="raphsody alt idle0011" x="356" y="622" width="356" height="622"/>
+	<SubTexture name="raphsody alt idle0012" x="712" y="622" width="356" height="622"/>
+	<SubTexture name="raphsody alt idle0013" x="1068" y="622" width="356" height="622"/>
+	<SubTexture name="raphsody alt idle0014" x="1424" y="622" width="356" height="622"/>
+	<SubTexture name="raphsody alt left0000" x="1780" y="622" width="415" height="633"/>
+	<SubTexture name="raphsody alt left0001" x="2195" y="622" width="415" height="633"/>
+	<SubTexture name="raphsody alt left0002" x="2610" y="622" width="415" height="633"/>
+	<SubTexture name="raphsody alt left0003" x="3025" y="622" width="415" height="633"/>
+	<SubTexture name="raphsody alt left0004" x="3440" y="622" width="415" height="633"/>
+	<SubTexture name="raphsody alt left0005" x="3855" y="622" width="415" height="633"/>
+	<SubTexture name="raphsody alt left0006" x="4270" y="622" width="415" height="633"/>
+	<SubTexture name="raphsody alt left0007" x="4685" y="622" width="415" height="633"/>
+	<SubTexture name="raphsody alt left0008" x="5100" y="622" width="415" height="633"/>
+	<SubTexture name="raphsody alt left0009" x="5515" y="622" width="415" height="633"/>
+	<SubTexture name="raphsody alt left0010" x="5930" y="622" width="415" height="633"/>
+	<SubTexture name="raphsody alt left0011" x="6345" y="622" width="415" height="633"/>
+	<SubTexture name="raphsody alt left0012" x="5515" y="622" width="415" height="633"/>
+	<SubTexture name="raphsody alt left0013" x="5930" y="622" width="415" height="633"/>
+	<SubTexture name="raphsody alt left0014" x="6345" y="622" width="415" height="633"/>
+	<SubTexture name="raphsody alt right0000" x="6760" y="622" width="410" height="634"/>
+	<SubTexture name="raphsody alt right0001" x="7170" y="622" width="410" height="634"/>
+	<SubTexture name="raphsody alt right0002" x="7580" y="622" width="410" height="634"/>
+	<SubTexture name="raphsody alt right0003" x="0" y="1256" width="410" height="634"/>
+	<SubTexture name="raphsody alt right0004" x="410" y="1256" width="410" height="634"/>
+	<SubTexture name="raphsody alt right0005" x="820" y="1256" width="410" height="634"/>
+	<SubTexture name="raphsody alt right0006" x="1230" y="1256" width="410" height="634"/>
+	<SubTexture name="raphsody alt right0007" x="1640" y="1256" width="410" height="634"/>
+	<SubTexture name="raphsody alt right0008" x="2050" y="1256" width="410" height="634"/>
+	<SubTexture name="raphsody alt right0009" x="2460" y="1256" width="410" height="634"/>
+	<SubTexture name="raphsody alt right0010" x="2870" y="1256" width="410" height="634"/>
+	<SubTexture name="raphsody alt right0011" x="3280" y="1256" width="410" height="634"/>
+	<SubTexture name="raphsody alt right0012" x="2460" y="1256" width="410" height="634"/>
+	<SubTexture name="raphsody alt right0013" x="2870" y="1256" width="410" height="634"/>
+	<SubTexture name="raphsody alt right0014" x="3280" y="1256" width="410" height="634"/>
+	<SubTexture name="raphsody alt up0000" x="3690" y="1256" width="390" height="690"/>
+	<SubTexture name="raphsody alt up0001" x="4080" y="1256" width="390" height="690"/>
+	<SubTexture name="raphsody alt up0002" x="4470" y="1256" width="390" height="690"/>
+	<SubTexture name="raphsody alt up0003" x="4860" y="1256" width="390" height="690"/>
+	<SubTexture name="raphsody alt up0004" x="5250" y="1256" width="390" height="690"/>
+	<SubTexture name="raphsody alt up0005" x="5640" y="1256" width="390" height="690"/>
+	<SubTexture name="raphsody alt up0006" x="6030" y="1256" width="390" height="690"/>
+	<SubTexture name="raphsody alt up0007" x="6420" y="1256" width="390" height="690"/>
+	<SubTexture name="raphsody alt up0008" x="6810" y="1256" width="390" height="690"/>
+	<SubTexture name="raphsody alt up0009" x="7200" y="1256" width="390" height="690"/>
+	<SubTexture name="raphsody alt up0010" x="7590" y="1256" width="390" height="690"/>
+	<SubTexture name="raphsody alt up0011" x="0" y="1946" width="390" height="690"/>
+	<SubTexture name="raphsody alt up0012" x="7200" y="1256" width="390" height="690"/>
+	<SubTexture name="raphsody alt up0013" x="7590" y="1256" width="390" height="690"/>
+	<SubTexture name="raphsody alt up0014" x="0" y="1946" width="390" height="690"/>
+	<SubTexture name="raphsody down0000" x="390" y="1946" width="361" height="557"/>
+	<SubTexture name="raphsody down0001" x="390" y="1946" width="361" height="557"/>
+	<SubTexture name="raphsody down0002" x="751" y="1946" width="361" height="557"/>
+	<SubTexture name="raphsody down0003" x="751" y="1946" width="361" height="557"/>
+	<SubTexture name="raphsody down0004" x="1112" y="1946" width="361" height="557"/>
+	<SubTexture name="raphsody down0005" x="1112" y="1946" width="361" height="557"/>
+	<SubTexture name="raphsody down0006" x="1473" y="1946" width="361" height="557"/>
+	<SubTexture name="raphsody down0007" x="1473" y="1946" width="361" height="557"/>
+	<SubTexture name="raphsody down0008" x="1834" y="1946" width="361" height="557"/>
+	<SubTexture name="raphsody down0009" x="1834" y="1946" width="361" height="557"/>
+	<SubTexture name="raphsody down0010" x="2195" y="1946" width="361" height="557"/>
+	<SubTexture name="raphsody down0011" x="2195" y="1946" width="361" height="557"/>
+	<SubTexture name="raphsody down0012" x="2195" y="1946" width="361" height="557"/>
+	<SubTexture name="raphsody down0013" x="2195" y="1946" width="361" height="557"/>
+	<SubTexture name="raphsody down0014" x="2195" y="1946" width="361" height="557"/>
+	<SubTexture name="raphsody idle0000" x="2556" y="1946" width="379" height="644"/>
+	<SubTexture name="raphsody idle0001" x="2556" y="1946" width="379" height="644"/>
+	<SubTexture name="raphsody idle0002" x="2935" y="1946" width="379" height="644"/>
+	<SubTexture name="raphsody idle0003" x="2935" y="1946" width="379" height="644"/>
+	<SubTexture name="raphsody idle0004" x="3314" y="1946" width="379" height="644"/>
+	<SubTexture name="raphsody idle0005" x="3314" y="1946" width="379" height="644"/>
+	<SubTexture name="raphsody idle0006" x="3693" y="1946" width="379" height="644"/>
+	<SubTexture name="raphsody idle0007" x="3693" y="1946" width="379" height="644"/>
+	<SubTexture name="raphsody idle0008" x="4072" y="1946" width="379" height="644"/>
+	<SubTexture name="raphsody idle0009" x="4072" y="1946" width="379" height="644"/>
+	<SubTexture name="raphsody idle0010" x="4451" y="1946" width="379" height="644"/>
+	<SubTexture name="raphsody idle0011" x="4451" y="1946" width="379" height="644"/>
+	<SubTexture name="raphsody idle0012" x="4451" y="1946" width="379" height="644"/>
+	<SubTexture name="raphsody idle0013" x="4451" y="1946" width="379" height="644"/>
+	<SubTexture name="raphsody idle0014" x="4451" y="1946" width="379" height="644"/>
+	<SubTexture name="raphsody left0000" x="4830" y="1946" width="410" height="635"/>
+	<SubTexture name="raphsody left0001" x="4830" y="1946" width="410" height="635"/>
+	<SubTexture name="raphsody left0002" x="5240" y="1946" width="410" height="635"/>
+	<SubTexture name="raphsody left0003" x="5240" y="1946" width="410" height="635"/>
+	<SubTexture name="raphsody left0004" x="5650" y="1946" width="410" height="635"/>
+	<SubTexture name="raphsody left0005" x="5650" y="1946" width="410" height="635"/>
+	<SubTexture name="raphsody left0006" x="6060" y="1946" width="410" height="635"/>
+	<SubTexture name="raphsody left0007" x="6060" y="1946" width="410" height="635"/>
+	<SubTexture name="raphsody left0008" x="6470" y="1946" width="410" height="635"/>
+	<SubTexture name="raphsody left0009" x="6470" y="1946" width="410" height="635"/>
+	<SubTexture name="raphsody left0010" x="6880" y="1946" width="410" height="635"/>
+	<SubTexture name="raphsody left0011" x="6880" y="1946" width="410" height="635"/>
+	<SubTexture name="raphsody left0012" x="6880" y="1946" width="410" height="635"/>
+	<SubTexture name="raphsody left0013" x="6880" y="1946" width="410" height="635"/>
+	<SubTexture name="raphsody left0014" x="6880" y="1946" width="410" height="635"/>
+	<SubTexture name="raphsody right0000" x="7290" y="1946" width="419" height="621"/>
+	<SubTexture name="raphsody right0001" x="7290" y="1946" width="419" height="621"/>
+	<SubTexture name="raphsody right0002" x="7709" y="1946" width="419" height="621"/>
+	<SubTexture name="raphsody right0003" x="7709" y="1946" width="419" height="621"/>
+	<SubTexture name="raphsody right0004" x="0" y="2636" width="419" height="621"/>
+	<SubTexture name="raphsody right0005" x="0" y="2636" width="419" height="621"/>
+	<SubTexture name="raphsody right0006" x="419" y="2636" width="419" height="621"/>
+	<SubTexture name="raphsody right0007" x="419" y="2636" width="419" height="621"/>
+	<SubTexture name="raphsody right0008" x="838" y="2636" width="419" height="621"/>
+	<SubTexture name="raphsody right0009" x="838" y="2636" width="419" height="621"/>
+	<SubTexture name="raphsody right0010" x="1257" y="2636" width="419" height="621"/>
+	<SubTexture name="raphsody right0011" x="1257" y="2636" width="419" height="621"/>
+	<SubTexture name="raphsody right0012" x="1257" y="2636" width="419" height="621"/>
+	<SubTexture name="raphsody right0013" x="1257" y="2636" width="419" height="621"/>
+	<SubTexture name="raphsody right0014" x="1257" y="2636" width="419" height="621"/>
+	<SubTexture name="raphsody ugh0000" x="1676" y="2636" width="403" height="639"/>
+	<SubTexture name="raphsody ugh0001" x="2079" y="2636" width="403" height="639"/>
+	<SubTexture name="raphsody ugh0002" x="2482" y="2636" width="403" height="639"/>
+	<SubTexture name="raphsody ugh0003" x="2885" y="2636" width="403" height="639"/>
+	<SubTexture name="raphsody ugh0004" x="3288" y="2636" width="403" height="639"/>
+	<SubTexture name="raphsody ugh0005" x="3691" y="2636" width="403" height="639"/>
+	<SubTexture name="raphsody ugh0006" x="4094" y="2636" width="403" height="639"/>
+	<SubTexture name="raphsody ugh0007" x="4497" y="2636" width="403" height="639"/>
+	<SubTexture name="raphsody ugh0008" x="4900" y="2636" width="403" height="639"/>
+	<SubTexture name="raphsody ugh0009" x="5303" y="2636" width="403" height="639"/>
+	<SubTexture name="raphsody ugh0010" x="5706" y="2636" width="403" height="639"/>
+	<SubTexture name="raphsody ugh0011" x="6109" y="2636" width="403" height="639"/>
+	<SubTexture name="raphsody ugh0012" x="6512" y="2636" width="403" height="639"/>
+	<SubTexture name="raphsody ugh0013" x="5706" y="2636" width="403" height="639"/>
+	<SubTexture name="raphsody ugh0014" x="6109" y="2636" width="403" height="639"/>
+	<SubTexture name="raphsody ugh0015" x="6512" y="2636" width="403" height="639"/>
+	<SubTexture name="raphsody up0000" x="6915" y="2636" width="388" height="682"/>
+	<SubTexture name="raphsody up0001" x="6915" y="2636" width="388" height="682"/>
+	<SubTexture name="raphsody up0002" x="7303" y="2636" width="388" height="682"/>
+	<SubTexture name="raphsody up0003" x="7303" y="2636" width="388" height="682"/>
+	<SubTexture name="raphsody up0004" x="7691" y="2636" width="388" height="682"/>
+	<SubTexture name="raphsody up0005" x="7691" y="2636" width="388" height="682"/>
+	<SubTexture name="raphsody up0006" x="0" y="3318" width="388" height="682"/>
+	<SubTexture name="raphsody up0007" x="0" y="3318" width="388" height="682"/>
+	<SubTexture name="raphsody up0008" x="388" y="3318" width="388" height="682"/>
+	<SubTexture name="raphsody up0009" x="388" y="3318" width="388" height="682"/>
+	<SubTexture name="raphsody up0010" x="776" y="3318" width="388" height="682"/>
+	<SubTexture name="raphsody up0011" x="776" y="3318" width="388" height="682"/>
+	<SubTexture name="raphsody up0012" x="776" y="3318" width="388" height="682"/>
+	<SubTexture name="raphsody up0013" x="776" y="3318" width="388" height="682"/>
+	<SubTexture name="raphsody up0014" x="776" y="3318" width="388" height="682"/>
+</TextureAtlas>

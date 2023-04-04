@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-78,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "raphsody idle"
+		},
+		{
+			"offsets": [
+				33,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "raphsody left"
+		},
+		{
+			"offsets": [
+				-37,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "raphsody down"
+		},
+		{
+			"offsets": [
+				-40,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "raphsody up"
+		},
+		{
+			"offsets": [
+				-130,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "raphsody right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rhapsodyskysad",
+	"position": [
+		30,
+		100
+	],
+	"healthicon": "rhapsody",
+	"flip_x": false,
+	"healthbar_colors": [
+		156,
+		110,
+		204
+	],
+	"camera_position": [
+		130,
+		80
+	],
+	"sing_duration": 5.8,
+	"scale": 1
+}
